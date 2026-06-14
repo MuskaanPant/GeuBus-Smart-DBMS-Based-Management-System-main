@@ -66,7 +66,7 @@ npm start
 
 ## 👨‍💻 Developer
 
-**Aman Devrani** - [@AMAN6921](https://github.com/AMAN6921)
+**Muskaan Pant** - [https://github.com/MuskaanPant]
 
 ## 📝 License
 
